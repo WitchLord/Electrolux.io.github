@@ -1,0 +1,11 @@
+Model Information:
+* title:	Geladeira Electrolux
+* source:	https://sketchfab.com/3d-models/geladeira-electrolux-39ef0821ddda470e89e5bda33f0f7914
+* author:	WitchLord (https://sketchfab.com/WitchLord)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Geladeira Electrolux" (https://sketchfab.com/3d-models/geladeira-electrolux-39ef0821ddda470e89e5bda33f0f7914) by WitchLord (https://sketchfab.com/WitchLord) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
